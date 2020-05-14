@@ -82,7 +82,6 @@ skrrrahh <- function(sound=27, expr = NULL) {
 
 skrrrahh_sounds <- function() {
   sounds <- c(
-    boomstick = "aod-broomstick.wav",
     twochainz = "twochainz.wav", 
     twochainz1 = "twochainz1.wav", 
     bigboi = "bigboi.wav", 
@@ -134,7 +133,8 @@ skrrrahh_sounds <- function() {
     trick = "trick.wav", 
     waka = "waka.wav", 
     weezy = "weezy.wav", 
-    yg = "yg.wav"
+    yg = "yg.wav",
+    boomstick = "aod-broomstick.wav"
   )
 }
 
